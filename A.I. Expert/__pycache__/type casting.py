@@ -1,0 +1,11 @@
+name = input("What is your name?")
+print(name, type(name))
+age = int(input("What is your age?"))
+print(age, type(age))
+school = bool(input("What school do you go to?"))
+print(school, type(school))
+weight = float(input("What is your weight?"))
+print(weight, type(weight))
+#typecasting
+print(str(age), "age")
+print(int(weight), "weight")
