@@ -9,3 +9,4 @@ print(weight, type(weight))
 #typecasting
 print(str(age), "age")
 print(int(weight), "weight")
+print(str(name), "name")
